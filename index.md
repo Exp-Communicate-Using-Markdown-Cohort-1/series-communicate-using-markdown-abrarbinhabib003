@@ -9,5 +9,8 @@
 function greet(name) {
     return `Hello, ${name}!`;
 }
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
